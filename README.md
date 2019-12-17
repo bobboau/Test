@@ -11,3 +11,4 @@ minor release
 conflicting bugfix
 
 another minor release
+conflicting bugfix
