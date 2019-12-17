@@ -4,3 +4,5 @@ This is a test repository to test some git automation scripting. Nothing of valu
 this is a dev commit
 
 bugfix
+
+bugfix 2
