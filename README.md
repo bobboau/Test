@@ -6,3 +6,5 @@ this is a dev commit
 bugfix
 
 bugfix 2
+
+conflicting bugfix
