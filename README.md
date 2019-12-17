@@ -9,3 +9,5 @@ bugfix 2
 
 minor release
 conflicting bugfix
+
+conflicting bugfix
