@@ -20,3 +20,4 @@ another conflicting bugfix
 change
 
 bugfix
+minor change
